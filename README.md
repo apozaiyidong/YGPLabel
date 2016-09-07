@@ -5,4 +5,5 @@
 匹配成功会将其设为指定颜色。
 
 YGPLabel *label = [[YGPLabel alloc]initWithFrame:CGRectZero];
+
 label.YGPLabelDelegate = self;
